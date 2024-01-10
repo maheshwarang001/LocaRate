@@ -2,6 +2,9 @@
 
 LocaRate is a user-friendly application crafted to simplify the process of discovering nearby shops based on personalized search criteria. Offering a diverse range of establishments, including shops, restaurants, spas, and more, LocaRate brings convenience to your fingertips by providing essential information such as ratings, shop names, addresses, and other relevant details.
 
+**To Run
+- ** Need to put api key provided by google api. As it's just a starter template the api key is stored inside the res folder -> https://github.com/maheshwarang001/LocaRate/blob/master_/lib/res/api_url/endpoints.dart
+
 **Key Features:**
 
 - **Cross-Platform Compatibility:** Developed using Flutter, LocaRate seamlessly runs on iOS, Android, and Windows platforms, ensuring accessibility for a wide user base.
